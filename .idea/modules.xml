@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all.iml" filepath="$PROJECT_DIR$/rocketmq-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-broker/rocketmq-broker.iml" filepath="$PROJECT_DIR$/rocketmq-broker/rocketmq-broker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-client/rocketmq-client.iml" filepath="$PROJECT_DIR$/rocketmq-client/rocketmq-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-common/rocketmq-common.iml" filepath="$PROJECT_DIR$/rocketmq-common/rocketmq-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-example/rocketmq-example.iml" filepath="$PROJECT_DIR$/rocketmq-example/rocketmq-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-filtersrv/rocketmq-filtersrv.iml" filepath="$PROJECT_DIR$/rocketmq-filtersrv/rocketmq-filtersrv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-namesrv/rocketmq-namesrv.iml" filepath="$PROJECT_DIR$/rocketmq-namesrv/rocketmq-namesrv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-remoting/rocketmq-remoting.iml" filepath="$PROJECT_DIR$/rocketmq-remoting/rocketmq-remoting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-srvutil/rocketmq-srvutil.iml" filepath="$PROJECT_DIR$/rocketmq-srvutil/rocketmq-srvutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-store/rocketmq-store.iml" filepath="$PROJECT_DIR$/rocketmq-store/rocketmq-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-tools/rocketmq-tools.iml" filepath="$PROJECT_DIR$/rocketmq-tools/rocketmq-tools.iml" />
+    </modules>
+  </component>
+</project>
